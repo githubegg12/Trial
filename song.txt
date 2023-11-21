@@ -2,3 +2,6 @@ Sondolo
 Me estoy cagando
 Para deshacer cambios
 Me estoy meando
+
+Para trabajar con Gui 
+git gui& (el & es para que no se cierre el bash)
