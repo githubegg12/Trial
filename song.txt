@@ -7,3 +7,6 @@ Para trabajar con Gui
 git gui& (el & es para que no se cierre el bash)Modificando el REDME file
 Añadiendo modificaciones parciales o de linea 
 LA LINEA DE ABAJO NO DEBERIA AÑADIRSELA LINEA DE ABAJO NO DEBERIA AÑADIRSEEsta linea si se añade
+LA LINEA DE ABAJO NO DEBERIA AÑADIRSE
+
+Esta linea si se añade
